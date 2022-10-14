@@ -1,0 +1,20 @@
+img {
+  height: 85vh;
+  object-fit: unset;
+  width: 100%;
+}
+.title{
+    margin-top: 4rem !important;
+    text-align: center;
+    background: none;
+    font-weight: bold;
+}
+.details{
+    padding: 1rem;
+}
+/* .movie{ */
+    /* padding: 1rem; */
+/* } */
+.side-title{
+    font-weight: bold;
+}

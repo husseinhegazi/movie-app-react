@@ -1,0 +1,20 @@
+.movie-img {
+  object-fit: contain;
+  height: 260px;
+}
+.movie-card {
+  top: 4.7rem;
+  margin: 0.8rem auto;
+  height: 22.9rem;
+  width: 10.9rem;
+}
+.movies-title{
+    color: black;
+    font-size: 13px;
+    font-weight: bold;
+    overflow: unset;
+    height: 1.9rem;
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,18 @@
+.click:hover {
+  cursor: pointer;
+}
+.navSelect:active {
+  font-weight: bolder;
+}
+.populer-movies {
+  color: white !important;
+  text-decoration: none !important;
+  margin-right: 1.8rem !important;
+}
+.main-nav{
+    background-color: rgb(56, 55, 55);
+}
+a{
+  text-decoration: none;
+  color: white !important;
+}
